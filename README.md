@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 - 👋 Hi, I’m Matthias
 - 👀 I’m interested in photography, movies and tech.
 - 🌱 I’m currently learning NextJS
@@ -6,9 +10,16 @@
 - 😄 Pronouns: nothing really, but i guess he/him
 - ⚡ Fun fact: some fish communicate by farting
 
+</td>
+<td>
+
   <a href="https://app.daily.dev/matthiasmeister"><img src="https://api.daily.dev/devcards/v2/gCECsQBjjRQxavmKVV5yS.png?type=default&r=q4l" width="356" alt="Matthias Meister's Dev Card"/></a>
 
 <!---
 mmeister86/mmeister86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</td>
+</tr>
+</table>
