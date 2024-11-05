@@ -1,6 +1,6 @@
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td>
+<td style="border: none; padding: 10px;">
 
 - 👋 Hi, I’m Matthias
 - 👀 I’m interested in photography, movies and tech.
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: some fish communicate by farting
 
 </td>
-<td>
+<td style="border: none; padding: 10px; vertical-align: top;">
 
   <a href="https://app.daily.dev/matthiasmeister"><img src="https://api.daily.dev/devcards/v2/gCECsQBjjRQxavmKVV5yS.png?type=default&r=q4l" width="356" alt="Matthias Meister's Dev Card"/></a>
 
